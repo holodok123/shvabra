@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+.qwe{
+    border: 2px solid purple;
+    border-radius: 5px;
+    border-collapse: separate;
+    border-spacing: 5px 8px;
+    background-color: rgb(60%, 20%, 80%, 0.3);
+    
+
+
+ }
+.zxc {
+    border: 2px solid white;
+    border-radius: 5px;
+    border-collapse: separate;
+    border-spacing: 5px 8px;
+    background-color: rgb(100%, 65%, 0%, 0.5);
+
+}
